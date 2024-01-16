@@ -3,8 +3,8 @@
   box-sizing: border-box;
 }
 #root {
-  background-image: url("spacebg2.png");
-  /* background-color: grey; */
+  /* background-image: url("spacebg2.png"); */
+  background-color: grey;
 }
 .contain {
   /* padding: 1rem 0.5rem; */
